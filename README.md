@@ -1,151 +1,232 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Asirindu%20Samod&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Engineer%20|%20Industrial%20IoT&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:233554&height=300&section=header&text=Asirindu%20Samod&fontSize=58&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20|%20Industrial%20IoT%20|%20Cloud%20Automation&descAlignY=60"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Industrial+IoT+Developer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;ESP32+%7C+Embedded+Systems+%7C+Automation;Always+Learning+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Industrial+IoT+Developer;ESP32+%7C+AWS+IoT+Core+%7C+MQTT;Cloud+Automation+%7C+DevOps;Docker+%7C+Kubernetes+%7C+Terraform;Building+Reliable+Embedded+Solutions+🚀"/>
 </p>
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=Asirindusamod99&style=for-the-badge&color=blue)
-
+  <img src="https://komarev.com/ghpvc/?username=Asirindusamod99&style=for-the-badge&color=0891b2"/>
+  <img src="https://img.shields.io/github/followers/Asirindusamod99?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-# 👋 About Me
+# 👋 Hello, I'm Asirindu Samod
 
 ```yaml
 Name: Asirindu Samod
 
+Role:
+  Embedded Systems Engineer
+
 Education:
-  Electronics & Telecommunication Engineering
+  BSc (Hons) Electronics & Telecommunication Engineering
 
-Current Focus:
-  DevOps
-  Cloud Computing
-  Industrial IoT
+Specialization:
   Embedded Systems
+  Industrial IoT
+  Cloud Automation
+  DevOps
 
-Passion:
-  Building secure cloud-native systems
-  Automating infrastructure
-  Connecting hardware with cloud
+Current Project:
+  🚀 EdgeSphere Enterprise Industrial IoT Platform
 
-Goal:
-  Become a World-Class DevOps & Cloud Engineer
+Mission:
+  Engineering reliable embedded systems
+  connected securely to modern cloud platforms.
 ```
 
 ---
 
-# 🚀 What I Do
+# 🚀 About Me
 
-☁ Design Cloud Infrastructure
+I am passionate about designing reliable embedded systems and integrating them with modern cloud platforms.
 
-⚙ Build CI/CD Pipelines
+My interests include:
 
-🐳 Containerize Applications
-
-☸ Deploy Kubernetes Clusters
-
-🌍 Infrastructure as Code
-
-🔌 Industrial IoT
-
-📡 ESP32 Cloud Integration
-
-🚀 Secure OTA Deployment
+- 🔌 Embedded Systems Engineering
+- 📡 Industrial Internet of Things (IIoT)
+- ☁️ AWS Cloud & IoT Core
+- 🔄 Secure OTA Firmware Deployment
+- 🐳 Docker & Kubernetes
+- ⚙️ CI/CD Automation
+- 🌍 Infrastructure as Code
+- 🔐 Secure Device Communication
 
 ---
 
-# 🌐 Technology Ecosystem
+# 🛠 Technology Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,cpp,c,python,bash,vscode,firebase,mysql&perline=8"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,kubernetes,terraform"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql"/>
 
 </p>
 
 ---
 
-# 🏗 DevOps Stack
+# 🌐 Engineering Stack
 
-| Category | Technologies |
-|-----------|--------------|
-| Cloud | AWS |
-| Containers | Docker |
-| Orchestration | Kubernetes |
-| IaC | Terraform |
-| CI/CD | GitHub Actions, Jenkins |
-| OS | Linux |
-| Monitoring | Prometheus, Grafana |
-| Languages | Python, Bash, C, C++ |
-| Embedded | ESP32, Arduino |
-| IoT | MQTT, AWS IoT Core |
-| Database | Firebase, MySQL |
+| Domain | Technologies |
+|---------|--------------|
+| 🔌 Embedded Systems | ESP32, Arduino, PlatformIO, C, C++ |
+| 📡 Industrial IoT | MQTT, OTA, AWS IoT Core |
+| ☁️ Cloud | AWS, Amazon S3 |
+| 🔥 Database | Firebase Realtime Database, MySQL |
+| ⚙️ DevOps | Docker, Kubernetes, Terraform |
+| 🚀 CI/CD | GitHub Actions, Jenkins |
+| 🐧 Operating Systems | Linux |
+| 🐍 Scripting | Python, Bash |
 
 ---
-
 # 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ## 🌟 EdgeSphere
 
-Enterprise Industrial IoT Platform
+**Enterprise Industrial IoT Management Platform**
 
-✔ AWS IoT Core
+- 🔌 ESP32 Fleet Management
+- ☁ AWS IoT Core
+- 📦 Amazon S3 OTA
+- 🔥 Firebase Dashboard
+- 📡 MQTT over TLS
+- 🔄 Secure OTA Updates
+- ⚙ GitHub Actions CI/CD
 
-✔ Amazon S3 OTA
+</td>
 
-✔ Firebase Dashboard
+<td width="50%">
 
-✔ ESP32 Fleet
+## 📡 IoT Attendance System
 
-✔ GitHub Actions
+**Smart RFID Attendance Platform**
 
----
+- ESP32
+- Firebase Realtime Database
+- Live Dashboard
+- RFID Authentication
+- Attendance Analytics
+- Device Monitoring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ☁ AWS IoT OTA
+
+**Secure Firmware Deployment**
+
+- AWS IoT Core
+- Amazon S3
+- OTA Notifications
+- HTTPS Downloads
+- SHA256 Validation
+
+</td>
+
+<td width="50%">
 
 ## 🐳 DevOps Lab
 
-Docker
+**Cloud Automation Environment**
 
-GitHub Actions
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
 
-Linux
+</td>
 
-Automation
+</tr>
 
----
-
-## ☁ AWS Infrastructure
-
-Terraform
-
-EC2
-
-IAM
-
-S3
-
-CloudWatch
+</table>
 
 ---
 
-## 📡 IoT Attendance
+# 📈 Current Focus
 
-ESP32
+```text
+🔌 Embedded Systems
 
-Firebase
+████████████████████ 100%
 
-Dashboard
+☁ AWS Cloud
 
-RFID
+█████████████████░░░ 85%
 
-MQTT
+📡 Industrial IoT
+
+██████████████████░░ 90%
+
+🐳 Docker
+
+████████████████░░░░ 80%
+
+☸ Kubernetes
+
+█████████████░░░░░░░ 70%
+
+🌍 Terraform
+
+████████████░░░░░░░░ 65%
+```
 
 ---
 
-# 📊 GitHub Analytics
+# 🏆 Certifications & Learning
+
+✅ AWS Cloud
+
+✅ Docker
+
+✅ Kubernetes
+
+✅ Terraform
+
+✅ Linux
+
+✅ GitHub Actions
+
+✅ Industrial IoT
+
+✅ Embedded Systems
+
+---
+
+# 💼 Currently Working On
+
+- 🚀 EdgeSphere Enterprise Industrial IoT Platform
+- ☁ AWS IoT Core Integration
+- 📦 Amazon S3 OTA Deployment
+- 🔥 Firebase Dashboard
+- 📡 ESP32 Fleet Management
+- ⚙ GitHub Actions CI/CD
+- 🐳 Docker Containers
+- ☸ Kubernetes Labs
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -155,8 +236,6 @@ MQTT
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asirindusamod99&theme=tokyonight&hide_border=true"/>
@@ -165,36 +244,16 @@ MQTT
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asirindusamod99&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asirindusamod99&theme=tokyonight&column=4&margin-w=15"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
-- ✅ AWS Certified
-- ✅ Kubernetes
-- ✅ Terraform
-- ✅ GitOps
-- ✅ Production DevOps
-- ✅ Industrial IoT Platform
-- ✅ Edge Computing
-- ✅ Open Source Contributions
+- ☁ AWS Professional Certification
+- 🔌 Enterprise Embedded Systems
+- 📡 Industrial IoT Platform
+- ⚙ Production DevOps
+- 🐳 Docker & Kubernetes
+- 🌍 Terraform Infrastructure
+- 🔥 Edge AI Integration
+- 🤝 Open Source Contributions
 
 ---
 
@@ -203,25 +262,176 @@ MQTT
 <p align="center">
 
 <a href="https://www.linkedin.com/in/asirindusamod">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Asirindusamod99">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Favorite Quote
+# 💡 Engineering Philosophy
 
-> **"Bridging Embedded Systems with Cloud Infrastructure through Automation."**
+> *"Engineering is not only about writing code—it's about building reliable systems that solve real-world problems."*
+
+---
+
+# 🚀 My Engineering Journey
+
+```text
+Electronics Engineering
+          │
+          ▼
+ Embedded Systems
+          │
+          ▼
+ Industrial IoT
+          │
+          ▼
+ AWS Cloud
+          │
+          ▼
+ DevOps Automation
+          │
+          ▼
+ Cloud-Native Infrastructure
+```
+
+---
+
+# ⚡ Areas of Interest
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+🔌
+
+### Embedded Systems
+
+ESP32
+
+Arduino
+
+RTOS
+
+Firmware
+
+</td>
+
+<td align="center">
+
+📡
+
+### Industrial IoT
+
+MQTT
+
+AWS IoT Core
+
+OTA
+
+Sensors
+
+</td>
+
+<td align="center">
+
+☁️
+
+### Cloud
+
+AWS
+
+S3
+
+EC2
+
+IAM
+
+</td>
+
+<td align="center">
+
+⚙️
+
+### DevOps
+
+Docker
+
+Kubernetes
+
+Terraform
+
+GitHub Actions
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Favorite Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS_IoT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+</p>
+
+---
+
+# 📌 Profile Highlights
+
+- 🚀 Enterprise Industrial IoT Projects
+- 🔌 Embedded Systems Engineering
+- ☁️ AWS Cloud & IoT Core
+- 🔄 Secure OTA Firmware Deployment
+- 📡 ESP32 Fleet Management
+- 🔥 Firebase Realtime Dashboard
+- 🐳 Docker & Kubernetes
+- ⚙️ Infrastructure Automation
+- 🌍 Cloud-Native Solutions
+
+---
+
+# 💬 Quote
+
+> **"Engineering reliable embedded systems and connecting them securely to the cloud through automation."**
 
 ---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, feel free to ⭐ star them and connect with me.
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:233554,50:112240,100:0A192F&height=130&section=footer"/>
 
 </p>
