@@ -58,19 +58,8 @@ My interests include:
 ---
 
 # 🛠 Technology Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=aws,firebase,docker,kubernetes,terraform"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,aws,firebase,docker,kubernetes,terraform,git,github,linux,vscode,mysql&perline=7"/>
 </p>
 
 ---
