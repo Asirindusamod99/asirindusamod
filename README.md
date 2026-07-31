@@ -152,33 +152,57 @@ My interests include:
 
 ---
 
-# 📈 Current Focus
+# 🚀 Current Focus
 
-```text
-🔌 Embedded Systems
+<table align="center">
+<tr>
 
-████████████████████ 100%
+<td width="50%">
 
-☁ AWS Cloud
+### 🏗️ Currently Building
 
-█████████████████░░░ 85%
+- 🚀 **EdgeSphere Enterprise IIoT Platform**
+- ☁️ AWS IoT Core Integration
+- 📦 Secure OTA Firmware Pipeline
+- 📡 ESP32 Fleet Management
+- 🔥 Firebase Realtime Dashboard
 
-📡 Industrial IoT
+</td>
 
-██████████████████░░ 90%
+<td width="50%">
 
-🐳 Docker
+### 🌱 Currently Learning
 
-████████████████░░░░ 80%
+- ☸️ Kubernetes
+- 🌍 Terraform
+- ⚙️ GitOps
+- 📊 Prometheus & Grafana
+- 🐧 Embedded Linux
 
-☸ Kubernetes
+</td>
 
-█████████████░░░░░░░ 70%
+</tr>
+</table>
 
-🌍 Terraform
+---
 
-████████████░░░░░░░░ 65%
-```
+<div align="center">
+
+### ⚡ Engineering Focus
+
+| 🔌 Embedded | ☁️ Cloud | 📡 IoT | ⚙️ DevOps |
+|:----------:|:--------:|:------:|:---------:|
+| ESP32 | AWS | MQTT | Docker |
+| PlatformIO | Amazon S3 | AWS IoT Core | Kubernetes |
+| C/C++ | Firebase | OTA | Terraform |
+
+</div>
+
+---
+
+> ### 💡 Currently Engineering
+>
+> **Building scalable Industrial IoT solutions by integrating embedded systems with cloud-native infrastructure, secure OTA deployment, and modern DevOps automation.**
 
 ---
 
