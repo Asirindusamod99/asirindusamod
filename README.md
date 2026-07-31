@@ -1,120 +1,151 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A86FF&height=280&section=header&text=Asirindu%20Samod&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20|%20Industrial%20IoT%20|%20Cloud%20Automation&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Asirindu%20Samod&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Engineer%20|%20Industrial%20IoT&descAlignY=58"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Industrial+IoT+Developer;AWS+Cloud+Automation;ESP32+%7C+MQTT+%7C+OTA+Firmware;DevOps+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Industrial+IoT+Developer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;ESP32+%7C+Embedded+Systems+%7C+Automation;Always+Learning+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Asirindusamod99&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/Asirindusamod99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Asirindusamod99?style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=Asirindusamod99&style=for-the-badge&color=blue)
 
 </p>
 
 ---
 
-# 👋 Hello, I'm Asirindu Samod
-
-🎓 Electronics & Telecommunication Engineering Graduate
-
-🔌 Embedded Systems Engineer
-
-☁️ Industrial IoT • AWS Cloud • DevOps
-
-I enjoy building secure embedded solutions, Industrial IoT platforms and cloud-native automation using modern DevOps practices.
-
----
-
-# 🚀 About Me
+# 👋 About Me
 
 ```yaml
 Name: Asirindu Samod
 
-Role:
-  Embedded Systems Engineer
+Education:
+  Electronics & Telecommunication Engineering
 
-Specialization:
+Current Focus:
+  DevOps
+  Cloud Computing
   Industrial IoT
-  Cloud Automation
+  Embedded Systems
 
-Currently Learning:
-  Kubernetes
-  Terraform
-  GitOps
-
-Working With:
-  ESP32
-  AWS IoT Core
-  Amazon S3
-  Firebase
-  GitHub Actions
+Passion:
+  Building secure cloud-native systems
+  Automating infrastructure
+  Connecting hardware with cloud
 
 Goal:
-  Build Enterprise IoT Platforms
+  Become a World-Class DevOps & Cloud Engineer
 ```
 
 ---
 
-# ⚡ Technology Stack
+# 🚀 What I Do
+
+☁ Design Cloud Infrastructure
+
+⚙ Build CI/CD Pipelines
+
+🐳 Containerize Applications
+
+☸ Deploy Kubernetes Clusters
+
+🌍 Infrastructure as Code
+
+🔌 Industrial IoT
+
+📡 ESP32 Cloud Integration
+
+🚀 Secure OTA Deployment
+
+---
+
+# 🌐 Technology Ecosystem
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,bash"/><br><br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins"/><br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,firebase,mysql"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,cpp,c,python,bash,vscode,firebase,mysql&perline=8"/>
 
 </p>
 
 ---
 
-# ☁️ Cloud & Embedded Ecosystem
+# 🏗 DevOps Stack
 
 | Category | Technologies |
 |-----------|--------------|
-| 🔌 Embedded | ESP32, Arduino, PlatformIO, C++ |
-| ☁ Cloud | AWS IoT Core, Amazon S3 |
-| 📡 Communication | MQTT, HTTPS |
-| 🔥 Database | Firebase Realtime Database |
-| ⚙ DevOps | Docker, Kubernetes, Terraform |
-| 🚀 CI/CD | GitHub Actions, Jenkins |
-| 🐧 OS | Linux |
-| 💻 Programming | C, C++, Python, Bash |
+| Cloud | AWS |
+| Containers | Docker |
+| Orchestration | Kubernetes |
+| IaC | Terraform |
+| CI/CD | GitHub Actions, Jenkins |
+| OS | Linux |
+| Monitoring | Prometheus, Grafana |
+| Languages | Python, Bash, C, C++ |
+| Embedded | ESP32, Arduino |
+| IoT | MQTT, AWS IoT Core |
+| Database | Firebase, MySQL |
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚀 EdgeSphere | Enterprise Industrial IoT Platform |
-| ☁ AWS IoT OTA | Secure OTA Firmware Deployment |
-| 📡 IoT Attendance | ESP32 + Firebase Dashboard |
-| 🐳 Docker Labs | Containerization & DevOps |
-| ☸ Kubernetes Lab | Production Cluster Learning |
+## 🌟 EdgeSphere
 
----
+Enterprise Industrial IoT Platform
 
-# 🎯 Current Focus
+✔ AWS IoT Core
 
-- 🔹 Industrial IoT
-- 🔹 Embedded Linux
-- 🔹 AWS Cloud
-- 🔹 Docker
-- 🔹 Kubernetes
-- 🔹 Terraform
-- 🔹 GitHub Actions
-- 🔹 Edge Computing
+✔ Amazon S3 OTA
+
+✔ Firebase Dashboard
+
+✔ ESP32 Fleet
+
+✔ GitHub Actions
 
 ---
 
-# 📊 GitHub Statistics
+## 🐳 DevOps Lab
+
+Docker
+
+GitHub Actions
+
+Linux
+
+Automation
+
+---
+
+## ☁ AWS Infrastructure
+
+Terraform
+
+EC2
+
+IAM
+
+S3
+
+CloudWatch
+
+---
+
+## 📡 IoT Attendance
+
+ESP32
+
+Firebase
+
+Dashboard
+
+RFID
+
+MQTT
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -126,6 +157,47 @@ Goal:
 
 ---
 
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asirindusamod99&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asirindusamod99&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Asirindusamod99&theme=tokyonight&column=4&margin-w=15"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ AWS Certified
+- ✅ Kubernetes
+- ✅ Terraform
+- ✅ GitOps
+- ✅ Production DevOps
+- ✅ Industrial IoT Platform
+- ✅ Edge Computing
+- ✅ Open Source Contributions
+
+---
+
 # 🌍 Connect With Me
 
 <p align="center">
@@ -134,20 +206,22 @@ Goal:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Quote
+# 💬 Favorite Quote
 
-> **"Engineering reliable embedded systems and connecting them to the cloud through secure automation."**
+> **"Bridging Embedded Systems with Cloud Infrastructure through Automation."**
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A86FF&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
 </p>
