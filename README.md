@@ -226,6 +226,23 @@ My interests include:
 
 ---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asirindusamod99&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asirindusamod99&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asirindusamod99&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 # 🎯 2026 Goals
 
@@ -239,7 +256,6 @@ My interests include:
 - 🤝 Open Source Contributions
 
 ---
-
 # 🌍 Connect With Me
 
 <p align="center">
